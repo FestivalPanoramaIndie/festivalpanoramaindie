@@ -1,0 +1,18 @@
+baseURL = "/"
+languageCode = "en-us"
+title = ""
+theme = "hello-friend-ng"
+
+[params]
+  description = "Sitio oficial del proyecto Festival Panorama Indie"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  customCSS = ["css/custom.css"]
+  greeting = "Festival Panorama Indie"
+  greetingMore = "Bienvenido al sitio oficial"
+
+[params."Logo"]
+  logoText = "Festival Panorama Indie"
+  logoMark = "›"

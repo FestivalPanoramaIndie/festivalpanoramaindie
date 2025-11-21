@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on </title>
+        <link>http://192.168.68.103:1313/posts/</link>
+        <description>Recent content in Posts on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 20 Nov 2025 08:20:41 -0600</lastBuildDate>
+        <atom:link href="http://192.168.68.103:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Bienvenida</title>
+            <link>http://192.168.68.103:1313/posts/bienvenida/</link>
+            <pubDate>Thu, 20 Nov 2025 08:20:41 -0600</pubDate>
+            
+            <guid>http://192.168.68.103:1313/posts/bienvenida/</guid>
+            <description>¡Bienvenido al proyecto Festival Panorama Indie!</description>
+            <content type="html"><![CDATA[<p>¡Bienvenido al proyecto Festival Panorama Indie!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
